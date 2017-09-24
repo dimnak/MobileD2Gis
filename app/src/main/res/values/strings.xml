@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MobileD2Gis</string>
+    <string name="action_settings">Help</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_map_test">MapTestAct</string>
+    <string name="title_activity_map_min">MapMin</string>
+    <string name="title_activity_lte">lte</string>
+    <string name="title_activity_heatmap">Heatmap</string>
+    <string name="title_activity_main_act_test">MainActTest</string>
+</resources>
